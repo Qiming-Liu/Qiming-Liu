@@ -2,14 +2,15 @@
 
 ### Hi there 👋, [About me](https://qiming-liu.github.io/).
 
-- :orange_book: Focusing on React
-- :hammer: Using Docker and AWS cloud
--  🌱  Learning Unity
+- :computer: Focusing on React
+- :earth_asia: Using AWS and Docker
+- :mortar_board: Learning Unity
 - :meat_on_bone: Meat lover
 
 #### Highlight
 
-- :link: Yup `sequence` Function https://github.com/jquense/yup/issues/851#issuecomment-1049705180  
-- :gift: Npm Package `srt-parse.js` [[NPM]](https://www.npmjs.com/package/srtparsejs) [[GITHUB]](https://github.com/Qiming-Liu/srtparse.js)  
+- :page_with_curl: Yup `sequence` Function https://github.com/jquense/yup/issues/851#issuecomment-1049705180  
+- :ledger: Npm Package `srt-parse.js` [[NPM]](https://www.npmjs.com/package/srtparsejs)
 - :electric_plug: Cordova Plugins [[Android Restart]](https://github.com/Qiming-Liu/cordova-plugin-android-restart) [[BLE Peripheral]](https://github.com/Qiming-Liu/cordova-plugin-ble-peripheral-fix)  
+- :hammer: Open Source Contributions 
 - :point_down: Project Pins Below 
