@@ -9,8 +9,8 @@
 
 #### Highlight
 
-- :page_with_curl: Yup `sequence` Function https://github.com/jquense/yup/issues/851#issuecomment-1049705180  
-- :ledger: Npm Package [`srt-parse.js`](https://www.npmjs.com/package/srtparsejs) [`@types/convert-array-to-csv`](https://www.npmjs.com/package/@types/convert-array-to-csv) 
-- :electric_plug: Cordova Plugins [[Android Restart]](https://github.com/Qiming-Liu/cordova-plugin-android-restart) [[BLE Peripheral]](https://github.com/Qiming-Liu/cordova-plugin-ble-peripheral-fix)  
+- :page_with_curl: Yup [`sequence`](https://github.com/jquense/yup/issues/851#issuecomment-1049705180) Function 
+- :ledger: Npm Packages [`srt-parse.js`](https://www.npmjs.com/package/srtparsejs) [`@types/convert-array-to-csv`](https://www.npmjs.com/package/@types/convert-array-to-csv) 
+- :electric_plug: Cordova Plugins [`Android Restart`](https://github.com/Qiming-Liu/cordova-plugin-android-restart) [`BLE Peripheral`](https://github.com/Qiming-Liu/cordova-plugin-ble-peripheral-fix)  
 - :hammer: Open Source Contributor
-- :point_down: Project Pins Below 
+- :point_down: Projects Pin Below 
