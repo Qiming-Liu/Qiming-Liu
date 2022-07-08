@@ -9,8 +9,18 @@
 
 #### Highlight
 
-- :page_with_curl: Yup [`sequence`](https://github.com/jquense/yup/issues/851#issuecomment-1049705180) Function 
-- :ledger: Npm Packages [`srt-parse.js`](https://www.npmjs.com/package/srtparsejs) [`@types/convert-array-to-csv`](https://www.npmjs.com/package/@types/convert-array-to-csv) 
-- :electric_plug: Cordova Plugins [`Android Restart`](https://github.com/Qiming-Liu/cordova-plugin-android-restart) [`BLE Peripheral`](https://github.com/Qiming-Liu/cordova-plugin-ble-peripheral-fix)  
-- :hammer: Open Source Contributor  
-- :point_down: Project Pins Below  
+- :page_with_curl: Yup method
+    - [`sequence`](https://github.com/jquense/yup/issues/851#issuecomment-1049705180)
+- :ledger: Npm Packages  
+    - [`srtparsejs`](https://www.npmjs.com/package/srtparsejs)  
+    - [`@types/srtparsejs`](https://www.npmjs.com/package/@types/srtparsejs)  
+    - [`@types/convert-array-to-csv`](https://www.npmjs.com/package/@types/convert-array-to-csv)  
+- :electric_plug: Cordova Plugins  
+    - [`Android Restart`](https://github.com/Qiming-Liu/cordova-plugin-android-restart)  
+    - [`BLE Peripheral`](https://github.com/Qiming-Liu/cordova-plugin-ble-peripheral-fix)   
+- :hammer: Open Source Contributor   
+    - [`Tabby Restart Hotkey`](https://github.com/Eugeny/tabby/pull/6709)   
+    - [`Tabby Search Bar`](https://github.com/Eugeny/tabby/pull/6713)   
+    - [`DefinitelyTyped srtparsejs`](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/61155)   
+    - [`DefinitelyTyped convert-array-to-csv`](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/61079)   
+- :point_down: Project Pins Below   
