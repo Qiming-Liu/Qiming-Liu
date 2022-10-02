@@ -19,9 +19,11 @@
     - [`Android Restart`](https://github.com/Qiming-Liu/cordova-plugin-android-restart)  
     - [`BLE Peripheral`](https://github.com/Qiming-Liu/cordova-plugin-ble-peripheral-fix)   
 - :hammer: Open Source Contributor  
-    - [`Tabby Restart Hotkey`](https://github.com/Eugeny/tabby/pull/6709)   
-    - [`Tabby Plugin Search Bar`](https://github.com/Eugeny/tabby/pull/6713) 
-    - [`JebRef Table Header Menu`](https://github.com/JabRef/jabref/pull/7729)   
     - [`DefinitelyTyped srtparsejs`](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/61155)   
     - [`DefinitelyTyped convert-array-to-csv`](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/61079)   
+            [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DefinitelyTyped&repo=DefinitelyTyped&theme=dark)](https://github.com/DefinitelyTyped/DefinitelyTyped/commits?author=Qiming-Liu)
+    - [`Tabby Restart Hotkey`](https://github.com/Eugeny/tabby/pull/6709)   
+    - [`Tabby Plugin Search Bar`](https://github.com/Eugeny/tabby/pull/6713)   
+            [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Eugeny&repo=tabby&theme=dark)](https://github.com/Eugeny/tabby/commits?author=Qiming-Liu)
 - :point_down: Project Pins Below   
+
