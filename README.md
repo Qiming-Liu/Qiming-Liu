@@ -1,4 +1,4 @@
-[<img align="right" src="https://github-readme-stats.vercel.app/api?username=Qiming-Liu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=feda77" />](https://qiming-liu.github.io/)  
+[<img align="right" src="https://readme-stats.clckblog.space/api?username=Qiming-Liu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=feda77" />](https://qiming-liu.github.io/)  
 
 ### Hi there 👋, [About me](https://qiming-liu.github.io/).  
 - :computer: Focusing on React  
@@ -19,7 +19,7 @@
 - :electric_plug: Cordova Plugins  
     - [`Android Restart`](https://github.com/Qiming-Liu/cordova-plugin-android-restart)  
     - [`BLE Peripheral`](https://github.com/Qiming-Liu/cordova-plugin-ble-peripheral-fix)   
-[<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qiming-Liu&layout=compact" />](https://qiming-liu.github.io/)
+[<img align="right" src="https://readme-stats.clckblog.space/api/top-langs/?username=Qiming-Liu&layout=compact" />](https://qiming-liu.github.io/)
 - :hammer: Open Source Contributor  
     - [`DefinitelyTyped srtparsejs`](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/61155)   
     - [`DefinitelyTyped convert-array-to-csv`](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/61079)   
