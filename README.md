@@ -10,6 +10,7 @@
 - :page_with_curl: Yup method
     - [`sequence`](https://github.com/jquense/yup/issues/851#issuecomment-1049705180)
 - :ledger: Npm Packages  
+    - [`react-image-cropper-dropzone`](https://www.npmjs.com/package/react-image-cropper-dropzone)  
     - [`srtparsejs`](https://www.npmjs.com/package/srtparsejs)  
     - [`@types/srtparsejs`](https://www.npmjs.com/package/@types/srtparsejs)  
     - [`@types/convert-array-to-csv`](https://www.npmjs.com/package/@types/convert-array-to-csv)  
