@@ -1,4 +1,4 @@
-[<img align="right" src="https://alan-github.vercel.app/api?username=Qiming-Liu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=feda77" />](https://qiming-liu.github.io/)  
+[<img align="right" src="https://alan-github.vercel.app/api?username=Qiming-Liu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=feda77&rank_icon=percentile" />](https://qiming-liu.github.io/)  
 ### Hi there 👋, [About me](https://qiming-liu.github.io/).  
 - :computer: Focusing on React  
 - :earth_asia: Using AWS and Docker  
