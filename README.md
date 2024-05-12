@@ -12,8 +12,6 @@
 - :sunglasses: Npm Packages  
     - [`react-image-cropper-dropzone`](https://www.npmjs.com/package/react-image-cropper-dropzone)  
     - [`srtparsejs`](https://www.npmjs.com/package/srtparsejs)  
-    - [`@types/srtparsejs`](https://www.npmjs.com/package/@types/srtparsejs)  
-    - [`@types/convert-array-to-csv`](https://www.npmjs.com/package/@types/convert-array-to-csv)
 - :wink: Github Action Marketplace
     - [`CORS Check`](https://github.com/marketplace/actions/cors-check)
 - :wrench: Cordova Plugins  
