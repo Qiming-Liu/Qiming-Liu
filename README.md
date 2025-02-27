@@ -12,8 +12,6 @@
 - :sunglasses: Npm Packages  
     - [`react-image-cropper-dropzone`](https://www.npmjs.com/package/react-image-cropper-dropzone)  
     - [`srtparsejs`](https://www.npmjs.com/package/srtparsejs)  
-- :wink: Github Action Marketplace
-    - [`CORS Check`](https://github.com/marketplace/actions/cors-check)
 - :wrench: Cordova Plugins  
     - [`Android Restart`](https://github.com/Qiming-Liu/cordova-plugin-android-restart)  
     - [`BLE Peripheral`](https://github.com/Qiming-Liu/cordova-plugin-ble-peripheral-fix)   
