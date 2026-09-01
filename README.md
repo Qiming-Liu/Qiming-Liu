@@ -9,9 +9,6 @@
 
 - :tea: Yup method
     - [`sequence`](https://github.com/jquense/yup/issues/851#issuecomment-1049705180)
-- :sunglasses: Npm Packages  
-    - [`react-image-cropper-dropzone`](https://www.npmjs.com/package/react-image-cropper-dropzone)  
-    - [`srtparsejs`](https://www.npmjs.com/package/srtparsejs)  
 - :wrench: Cordova Plugins  
     - [`Android Restart`](https://github.com/Qiming-Liu/cordova-plugin-android-restart)  
     - [`BLE Peripheral`](https://github.com/Qiming-Liu/cordova-plugin-ble-peripheral-fix)   
